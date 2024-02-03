@@ -13,7 +13,7 @@ Title = "Digital CV | Earl Parel"
 Icon = ":scroll:"
 Name = "Earl Parel"
 Description = """
-ECE Student of Mapua University
+ECE Graduate of Mapua University
 """
 Email = "earllevip@gmail.com"
 Socials = {
